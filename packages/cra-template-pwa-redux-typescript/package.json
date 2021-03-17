@@ -1,20 +1,21 @@
 {
-  "name": "cra-template-pwa-typescript",
+  "name": "cra-template-pwa-redux-typescript",
   "version": "1.0.4",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "pwa",
+    "redux",
     "workbox",
     "service-worker"
   ],
-  "description": "A progressive web app template for Create React App and TypeScript, using Workbox.",
+  "description": "A progressive web app template for Create React App and TypeScript, using Workbox and Redux. A fork from Jeff Posnick",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cra-template/pwa",
-    "directory": "packages/cra-template-pwa-typescript"
+    "url": "https://github.com/bawdeveloppement/pwa-redux",
+    "directory": "packages/cra-template-pwa-redux-typescript"
   },
   "license": "MIT",
   "engines": {
